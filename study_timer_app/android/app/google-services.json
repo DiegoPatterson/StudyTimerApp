@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2852225446",
+    "project_id": "study-timer-backend",
+    "storage_bucket": "study-timer-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2852225446:android:680220f34ac21b86074f67",
+        "android_client_info": {
+          "package_name": "com.example.study_timer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2852225446-nfcpctlpq6m3qav3u22nke83n8isg8nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvpeHnkPr5U8vo8QWgrBfqNJCPxHdT_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2852225446-nfcpctlpq6m3qav3u22nke83n8isg8nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
